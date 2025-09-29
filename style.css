@@ -12,6 +12,16 @@ body {
 .menubar:hover {
     color: green;
 }
-
+.images {
+    margin: 4vw 0; 
+    border: 0.4rem solid white;
+    width: 85%;
+}
+.page {
+    margin: 2vw 0;
+    font-size: clamp(3rem, 5vw, 10rem);
+    font-weight: bold;
+    font-family: Georgia,'Times New Roman', Times, serif;
+}
 
 
