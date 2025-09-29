@@ -4,7 +4,7 @@ body {
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 1.25em;
-    margin: 3em 1.5em;
+    margin: 4em 1.5em;
 }
 .menubar {
     color: #D4D4D4;
@@ -12,5 +12,6 @@ body {
 .menubar:hover {
     color: green;
 }
+
 
 
